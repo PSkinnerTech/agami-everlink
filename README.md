@@ -1,6 +1,6 @@
 # Everlink Developer Notes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is developed using PReact - PreactFlex
 
 ## Available Scripts
 
